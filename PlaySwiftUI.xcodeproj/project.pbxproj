@@ -11,6 +11,7 @@
 		189E41B92590DF9D00DF6DE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189E41B82590DF9D00DF6DE7 /* ContentView.swift */; };
 		189E41BB2590DF9E00DF6DE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189E41BA2590DF9E00DF6DE7 /* Assets.xcassets */; };
 		189E41BE2590DF9E00DF6DE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189E41BD2590DF9E00DF6DE7 /* Preview Assets.xcassets */; };
+		189E41C9259102CD00DF6DE7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 189E41C8259102CD00DF6DE7 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		189E41BA2590DF9E00DF6DE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		189E41BD2590DF9E00DF6DE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		189E41BF2590DF9E00DF6DE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		189E41C8259102CD00DF6DE7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		189E41AA2590DF9D00DF6DE7 = {
 			isa = PBXGroup;
 			children = (
+				189E41C8259102CD00DF6DE7 /* .gitignore */,
 				189E41B52590DF9D00DF6DE7 /* PlaySwiftUI */,
 				189E41B42590DF9D00DF6DE7 /* Products */,
 			);
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				189E41BE2590DF9E00DF6DE7 /* Preview Assets.xcassets in Resources */,
+				189E41C9259102CD00DF6DE7 /* .gitignore in Resources */,
 				189E41BB2590DF9E00DF6DE7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
